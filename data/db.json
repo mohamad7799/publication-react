@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "xxx Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti? /n Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti?/nLorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti?",
+      "author": "Mohamad",
+      "id": 1
+    },
+    {
+      "title": "xyz Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti? /n Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti?/nLorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti?",
+      "author": "Ali",
+      "id": 2
+    },
+    {
+      "title": "abc blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti? /n Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti?/nLorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consequuntur consectetur assumenda architecto illum nostrum odit dicta voluptatibus id officia, iure cumque ipsam reprehenderit quas eius recusandae sequi, quaerat corrupti?",
+      "author": "Khaled",
+      "id": 3
+    }
+  ]
+}
